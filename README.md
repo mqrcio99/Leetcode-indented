@@ -66,6 +66,7 @@ Juntos somos fortes! 🚀💻
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Depth-First Search
 |  |
@@ -83,4 +84,16 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## String
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
+## Stack
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
