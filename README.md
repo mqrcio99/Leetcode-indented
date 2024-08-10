@@ -59,4 +59,28 @@ Juntos somos fortes! 🚀💻
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/mqrcio99/Leetcode-indented/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/mqrcio99/Leetcode-indented/tree/master/1203-print-in-order) |
+## Array
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## Hash Table
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+## Matrix
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
