@@ -64,6 +64,7 @@ Juntos somos fortes! 🚀💻
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/mqrcio99/Leetcode-indented/tree/master/0057-insert-interval) |
+| [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
@@ -111,6 +112,7 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,4 +173,9 @@ Juntos somos fortes! 🚀💻
 | ------- |
 | [0143-reorder-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
