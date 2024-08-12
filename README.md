@@ -154,5 +154,10 @@ Juntos somos fortes! 🚀💻
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0206-reverse-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/mqrcio99/Leetcode-indented/tree/master/1765-merge-in-between-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
