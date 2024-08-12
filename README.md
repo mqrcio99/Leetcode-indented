@@ -70,6 +70,7 @@ Juntos somos fortes! 🚀💻
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
+| [0713-subarray-product-less-than-k](https://github.com/mqrcio99/Leetcode-indented/tree/master/0713-subarray-product-less-than-k) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
 |  |
@@ -182,4 +183,8 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/mqrcio99/Leetcode-indented/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
