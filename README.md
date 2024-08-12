@@ -62,6 +62,7 @@ Juntos somos fortes! 🚀💻
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
 |  |
@@ -96,4 +97,12 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
