@@ -63,10 +63,12 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
+| [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Depth-First Search
@@ -129,4 +131,8 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mqrcio99/Leetcode-indented/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
