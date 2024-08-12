@@ -72,6 +72,7 @@ Juntos somos fortes! 🚀💻
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/mqrcio99/Leetcode-indented/tree/master/0713-subarray-product-less-than-k) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,10 +86,12 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String
 |  |
 | ------- |
@@ -187,4 +191,8 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mqrcio99/Leetcode-indented/tree/master/0713-subarray-product-less-than-k) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
