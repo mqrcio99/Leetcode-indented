@@ -64,6 +64,7 @@ Juntos somos fortes! 🚀💻
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/mqrcio99/Leetcode-indented/tree/master/0057-insert-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
@@ -99,6 +100,7 @@ Juntos somos fortes! 🚀💻
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 ## Binary Search
 |  |
@@ -136,4 +138,8 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
