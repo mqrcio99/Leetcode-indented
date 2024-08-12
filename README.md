@@ -98,6 +98,7 @@ Juntos somos fortes! 🚀💻
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 ## Sorting
 |  |
@@ -155,9 +156,15 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0234-palindrome-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/mqrcio99/Leetcode-indented/tree/master/1765-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mqrcio99/Leetcode-indented/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
