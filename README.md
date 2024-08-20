@@ -78,6 +78,7 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mqrcio99/Leetcode-indented/tree/master/0041-first-missing-positive) |
+| [0264-ugly-number-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
@@ -142,6 +143,7 @@ Juntos somos fortes! 🚀💻
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mqrcio99/Leetcode-indented/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -200,11 +202,13 @@ Juntos somos fortes! 🚀💻
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/mqrcio99/Leetcode-indented/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/mqrcio99/Leetcode-indented/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
 ## Game Theory
