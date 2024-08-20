@@ -65,6 +65,7 @@ Juntos somos fortes! 🚀💻
 | [0004-median-of-two-sorted-arrays](https://github.com/mqrcio99/Leetcode-indented/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/mqrcio99/Leetcode-indented/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/mqrcio99/Leetcode-indented/tree/master/0057-insert-interval) |
+| [0212-word-search-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mqrcio99/Leetcode-indented/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mqrcio99/Leetcode-indented/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -101,11 +102,13 @@ Juntos somos fortes! 🚀💻
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0212-word-search-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0212-word-search-ii) |
 | [0726-number-of-atoms](https://github.com/mqrcio99/Leetcode-indented/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
@@ -215,4 +218,12 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
