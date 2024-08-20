@@ -72,6 +72,7 @@ Juntos somos fortes! 🚀💻
 | [0621-task-scheduler](https://github.com/mqrcio99/Leetcode-indented/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/mqrcio99/Leetcode-indented/tree/master/0713-subarray-product-less-than-k) |
 | [0999-regions-cut-by-slashes](https://github.com/mqrcio99/Leetcode-indented/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mqrcio99/Leetcode-indented/tree/master/0525-contiguous-array) |
+| [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +197,16 @@ Juntos somos fortes! 🚀💻
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mqrcio99/Leetcode-indented/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Math
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mqrcio99/Leetcode-indented/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
